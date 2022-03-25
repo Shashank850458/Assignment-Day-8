@@ -1,5 +1,5 @@
-https://github.com/rvsp/typescript-oops/blob/master/Practice/Movie.md
---------------------
+// 1.https://github.com/rvsp/typescript-oops/blob/master/Practice/Movie.md
+//--------------------
 class Movie{
   constructor(title,studio,rating="PG"){
     this.title = title;
